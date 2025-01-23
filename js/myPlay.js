@@ -95,14 +95,33 @@
 //   add(4, 8, 12); // "Result: 24"
 //   add(17, 6, 25); // "Result: 48"
 
+//   function add(a, b, c) {
+//     console.log(`Addition result equals ${a+b+c}`);
+//   }
+//   add(15, 27, 10);
+//   add(10, 20, 30);
+//   add(5, 10, 15);
 
 
-
-  function add(a, b, c) {
-    console.log(`Addition result equals ${a+b+c}`);
-  }
+//   function multiply(x, y, z) {
+//     console.log('The code before return is executed as usual');
   
-  add(15, 27, 10);
-  add(10, 20, 30);
-  add(5, 10, 15);
+//     return x * y * z;
   
+//     console.log('This code is never executed because it is after return');
+//   }
+  
+//   console.log(multiply(2, 3, 5)); // 30
+
+// function makeMessage(username) {
+// 	console.log(`Hello ${username}`);
+// }
+
+// makeMessage("Jacob")
+
+//   function add(a, b, c) {
+//     console.log(`Addition result equals ${a+b+c}`);
+//   }
+//   add(15, 27, 10);
+//   add(10, 20, 30);
+//   add(5, 10, 15);

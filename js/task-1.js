@@ -1,5 +1,5 @@
 'use strict';
-// my first attempt
+// !!!my first attempt!!!
 
 // function makeTransaction(quantity, pricePerDroid) {
 //     const totalPrice = quantity * pricePerDroid;
@@ -39,13 +39,4 @@ console.log(makeTransaction(10, 500)); // "You ordered 10 droids worth 5000 cred
 // Візьми код нижче і встав після оголошення своєї функції для перевірки коректності її роботи. 
 // У консоль будуть виведені результати її роботи.
 
-
-
-// Шаблонний рядок!!!!
-// const productName = "Droid";
-// const pricePerItem = 3500;
-
-// // Change code below this line
-// const message = `You picked ${productName}, price per item is ${pricePerItem} credits`;
-// console.log(message);
 
